@@ -1,0 +1,72 @@
+---
+added: 2025-04-17 14&#58;21&#58;55.901056
+thumbnail: https://tracy-st.github.io/iiif-training/img/derivatives/iiif/sc190747/SC190747/full/100,/0/default.jpg
+title: SC190747
+user: tracy-st
+---
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tracy-st.github.io/iiif-training/img/derivatives/iiif/sc190747/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "SC190747"
+    ]
+  },
+  "summary": {
+    "en": [
+      ""
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://tracy-st.github.io/iiif-training/img/derivatives/iiif/sc190747/canvas/sc190747-1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "SC190747"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tracy-st.github.io/iiif-training/img/derivatives/iiif/sc190747/SC190747/full/100,/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 1116,
+      "width": 1600,
+      "items": [
+        {
+          "id": "https://tracy-st.github.io/iiif-training/img/derivatives/iiif/sc190747/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://tracy-st.github.io/iiif-training/img/derivatives/iiif/sc190747/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tracy-st.github.io/iiif-training/img/derivatives/iiif/sc190747/SC190747/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1116,
+                "width": 1600,
+                "service": [
+                  {
+                    "id": "https://tracy-st.github.io/iiif-training/img/derivatives/iiif/sc190747/SC190747",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://tracy-st.github.io/iiif-training/img/derivatives/iiif/sc190747/canvas/sc190747-1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
