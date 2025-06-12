@@ -1,0 +1,149 @@
+---
+added: '2025-06-12 15:34:51.898559'
+thumbnail: https://ids.lib.harvard.edu/ids/iiif/8367296/full/!170,170/0/default.jpg
+title: 'A Nayika and Her Lover: Page from a Dispersed Rasamanjari Series (Blossom
+  Cluster of Delight)'
+user: tracy-st
+
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://tracy-st.github.io/iiif-training/manifests/iiif.harvardartmuseums.org/manifest.json",
+  "@type": "sc:Manifest",
+  "attribution": "Harvard Art Museums",
+  "description": "",
+  "label": "A Nayika and Her Lover: Page from a Dispersed Rasamanjari Series (Blossom Cluster of Delight)",
+  "logo": {
+    "@id": "https://ids.lib.harvard.edu/ids/iiif/437958013/full/!800,800/0/default.jpg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://ids.lib.harvard.edu/ids/iiif/437958013",
+      "profile": "http://iiif.io/api/image/2/level2.json"
+    }
+  },
+  "metadata": [
+    {
+      "label": "Date",
+      "value": "c. 1660-1670"
+    },
+    {
+      "label": "Classification",
+      "value": "Paintings"
+    },
+    {
+      "label": "Credit Line",
+      "value": "Harvard Art Museums/Arthur M. Sackler Museum, Gift of John Kenneth Galbraith"
+    },
+    {
+      "label": "Object Number",
+      "value": "1972.74"
+    },
+    {
+      "label": "People",
+      "value": [
+        "Artist: Unknown Artist"
+      ]
+    },
+    {
+      "label": "Medium",
+      "value": "Opaque watercolor, gold, and beetle-wing cases on paper"
+    },
+    {
+      "label": "Technique",
+      "value": "Painted"
+    },
+    {
+      "label": "Dimensions",
+      "value": "actual: 23.4 x 33 cm (9 3/16 x 13 in.)"
+    }
+  ],
+  "rendering": {
+    "@id": "https://www.harvardartmuseums.org/collections/object/303829",
+    "format": "text/html",
+    "label": "Full record view"
+  },
+  "sequences": [
+    {
+      "@id": "https://iiif.harvardartmuseums.org/manifests/object/303829/sequence/normal",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://iiif.harvardartmuseums.org/manifests/object/303829/canvas/canvas-8367296",
+          "@type": "sc:Canvas",
+          "height": 1828,
+          "images": [
+            {
+              "@id": "https://iiif.harvardartmuseums.org/manifests/object/303829/annotation/anno-8367296",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.harvardartmuseums.org/manifests/object/303829/canvas/canvas-8367296",
+              "resource": {
+                "@id": "https://ids.lib.harvard.edu/ids/iiif/8367296/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1828,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ids.lib.harvard.edu/ids/iiif/8367296",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 2550
+              }
+            }
+          ],
+          "label": "1",
+          "otherContent": [
+            {
+              "@id": "https://iiif.harvardartmuseums.org/manifests/object/303829/list/8367296",
+              "@type": "sc:AnnotationList"
+            }
+          ],
+          "width": 2550
+        },
+        {
+          "@id": "https://iiif.harvardartmuseums.org/manifests/object/303829/canvas/canvas-43183186",
+          "@type": "sc:Canvas",
+          "height": 725,
+          "images": [
+            {
+              "@id": "https://iiif.harvardartmuseums.org/manifests/object/303829/annotation/anno-43183186",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.harvardartmuseums.org/manifests/object/303829/canvas/canvas-43183186",
+              "resource": {
+                "@id": "https://ids.lib.harvard.edu/ids/iiif/43183186/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 725,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ids.lib.harvard.edu/ids/iiif/43183186",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 1024
+              }
+            }
+          ],
+          "label": "2",
+          "otherContent": [
+            {
+              "@id": "https://iiif.harvardartmuseums.org/manifests/object/303829/list/43183186",
+              "@type": "sc:AnnotationList"
+            }
+          ],
+          "width": 1024
+        }
+      ],
+      "viewingHint": "individuals"
+    }
+  ],
+  "thumbnail": {
+    "@id": "https://ids.lib.harvard.edu/ids/iiif/8367296/full/!170,170/0/default.jpg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://ids.lib.harvard.edu/ids/iiif/8367296",
+      "profile": "http://iiif.io/api/image/2/level2.json"
+    }
+  },
+  "within": "https://www.harvardartmuseums.org/collections"
+}
