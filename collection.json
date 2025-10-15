@@ -1,368 +1,368 @@
-    {
+ {
       "@context": "http://iiif.io/api/presentation/3/context.json",
       "id": "https://example.org/collections/my-collection",
       "type": "Collection",
       "label": { "en": [ "My Custom IIIF Collection" ] },
       "items": [
-{
-          "id": " https://nrs.harvard.edu/urn-3:DIV.LIB:33103310:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FMUS.MCZ:33103414:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33719361:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " View of Gore Hall, the Harvard College library designed by Richard Bond and built in 1838. It was demolished in 1913 and replaced by Widener Library. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103348:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103352:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " View of unidentified Tudor-style building, possibly in Swansea, Wales, with wagon wheels in the foreground. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103354:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " Portrait of British and French officers at staff headquarters during the Crimean War. Pictured, from left to right: Colonel Kingcote; Commander Maxse; Dr. Prendergast; Colonel A. Hardinge; Colonel Poulett Somerset; Mr. Calvert, the interpreter; Count Revel; an orderly; Lord Burghersh; Major the Honorable Leicester Curzon; and Colonel Vico. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103356:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " Portrait of allied commanders Lord Raglan, Omar Pacha, and Maréchal Pélissier seated at a table the morning of the successful attack against Russian positions on the Mamelon. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103402:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103362:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103396:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " Portrait photograph in The Mind Unveiled; or a Brief History of Twenty-Two Imbecile Children (U. Hunt & Son, 1858). Written by Isaac Newton Kerlin, The Mind Unveiled was “the first photographically illustrated medical book published in the United States,” according to Weston Naed, founding curator of the J. Paul Getty Museum Department of Photographs. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103398:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " Portrait photograph in The Mind Unveiled; or a Brief History of Twenty-Two Imbecile Children (U. Hunt & Son, 1858). Written by Isaac Newton Kerlin, The Mind Unveiled was “the first photographically illustrated medical book published in the United States,” according to Weston Naed, founding curator of the J. Paul Getty Museum Department of Photographs. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103372:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103376:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103378:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103406:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103380:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103392:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FMUS.PEAB:33789901:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FMUS.PEAB:33789907:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL:33103320:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " Full-length portrait of a woman, arms folded across her chest, probably Henrietta Agnes Bennett (1820-1873), wife of James Gordon Bennett Sr., the founder, editor and publisher of the New York Herald. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL:33103322:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " Three-quarter length portrait of a boy, John Wein Forney Jr., holding a straw hat. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL:33103330:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " Man identified as Mr. Irwin, head-and-shoulders portrait, facing slightly right, hand colored, possibly taken by Mathew Brady. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL:33103332:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " Group portrait of six of Congregational clergyman David Dudley's sons: Henry Martyn, a clergyman and author; Cyrus West, a business man and industrialist who led the effort to lay the first Atlantic telegraph cable; Mathew Dickinson; David Dudley Jr., a United States Congressman and law reformer; Jonathan Edwards; and Stephen Johnson, an Associate Justice of the U.S. Supreme Court. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL:33103334:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " Photocollage of railway developer and Member of Parliament Sir Samuel Morton Peto (front row, center) with a large unidentified group of mostly men. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL:33103336:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " Photomontage of railway developer and Member of Parliament Sir Samuel Morton Peto (front row, far left) with a large unidentified group of mostly men. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL:33103338:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " Brady imperial photograph of Thomas Hart Benton, a United States Senator from Missouri. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL:33103342:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " Group portrait of Bellevue Hospital Medical College of New York board of trustees. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL:33103344:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL:10658940:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:HUAM:INV021505_DYNMC:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:HUAM:DDC102544_DYNMC:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:HUAM:INV144519_DYNMC:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:HLS.LIBR:1271294:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " Group portrait of the members of the Boston Society for Medical Improvement. Standing, left to right: Charles Eliot Ware, Robert William Hooper, Le Baron Russell, Samuel Parkman. Sitting left to right: George Amory Bethune, Oliver Wendell Holmes, Samuel Cabot, Jonathan Mason Warren, William Edward Coale, and James Browne Gregerson. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:DIV.LIB:33103308:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FMUS.MCZ:33103410:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FMUS.MCZ:33103412:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103346:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103400:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103350:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103360:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103364:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " Still life showing a Babylonian clay cylinder and a fragment of a Babylonian inscription from the collection of Sir Thomas Phillipps, baronet of Middle Hill in Worcestershire, England. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103366:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " Portrait photograph in The Mind Unveiled; or a Brief History of Twenty-Two Imbecile Children (U. Hunt & Son, 1858). Written by Isaac Newton Kerlin, The Mind Unveiled was “the first photographically illustrated medical book published in the United States,” according to Weston Naed, founding curator of the J. Paul Getty Museum Department of Photographs. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103368:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " View of Bristol, England, showing a cobblestone street, the Fourteen Stars Tavern, and a man in a top hat and coat standing on the sidewalk. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103370:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " View of ivy-covered conservatory at John Dillwyn Llewelyn's family estate, Penllergare, near Swansea, Wales. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103374:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103404:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103382:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103384:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103386:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103388:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103390:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103358:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FMUS.PEAB:33789895:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FMUS.PEAB:33789897:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FMUS.PEAB:33789899:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FMUS.PEAB:33789903:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " Portrait of Psí-tsha Wa-kinģ-a, a warrior of the Yankton Sioux. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FMUS.PEAB:33789905:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL:33103314:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " Portrait of Lew Wallace in military uniform, a lawyer from Indiana, Union general in the American Civil War, territorial governor of New Mexico, U.S. minister to the Ottoman Empire, and author best known for his historical adventure story, Ben-Hur: A Tale of the Christ (1880). " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL:33103316:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " Photographic reproduction of a daguerreotype portrait of United States President James K. Polk taken in 1849 by Mathew Brady. Polk was the first president to have his picture taken in the White House. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL:33103318:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " Studio portrait of two women, probably sisters, head-and-shoulders, one facing front and the other facing left. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL:33103324:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " Photographic reproduction, with extensive retouching, of a daguerreotype portrait of Henry and Lucretia Clay on their 50th wedding anniversary in 1849, possibly taken by Mathew Brady. A United States senator and a representative from Kentucky, Clay served as Secretary of State under President John Quincy Adams from 1825-1829. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103394:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " Portrait of allied commanders Lord Raglan, Omar Pacha, and Maréchal Pélissier seated at a table the morning of the successful attack against Russian positions on the Mamelon. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL:33103326:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " Photographic reproduction of a daguerreotype portrait of United States Senator from New York John A. Dix taken by Mathew Brady between 1845 and 1849. Dix was appointed U.S. Secretary of the Treasury and a major general during the Civil War, and he served as governor of New York from 1873-1874. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL:33103328:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " Man identified as Mr. Irwin, head-and-shoulders portrait, facing slightly right, possibly taken by Mathew Brady. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL:33103340:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " Studio portrait of Teresa Bagioli Sickles, wife of politician and United States Army Major General Daniel E. Sickles. She gained notoriety in 1859 when her husband murdered her lover, Philip Barton Key, son of Francis Scott Key. At his trial, Sickles claimed for the first time in U.S. jurisprudence a defense by temporary insanity and was acquitted. " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL.HOUGH:33103408:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL:10658939:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:HUAM:INV021491_DYNMC:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:HUAM:INV024785_DYNMC:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:HUAM:INV024784_DYNMC:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:HUAM:21047_DYNMC:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " " ] }
-        },
- {
-          "id": " https://nrs.harvard.edu/urn-3:FHCL:2028189:MANIFEST ",
-          "type": "Manifest",
-          "label": { "en": [ " View of Nusretiye Mosque, looking from the south, showing Turkish military officers and cannon in the foreground. " ] }
-        }
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129422",
+                    "type": "Manifest",
+                    "label": { "en": [ " F.E.A. [Francis Ellingwood Abbot] on leaving college, 1859" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129609",
+                    "type": "Manifest",
+                    "label": { "en": [ " James Postell, head-and-shoulders portrait, facing front" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:15315197",
+                    "type": "Manifest",
+                    "label": { "en": [ " Gore Hall" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129481",
+                    "type": "Manifest",
+                    "label": { "en": [ " Unidentified man sitting at a table reading a book" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129489",
+                    "type": "Manifest",
+                    "label": { "en": [ " Unidentified Tudor-style building with timber frame" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129493",
+                    "type": "Manifest",
+                    "label": { "en": [ " British and French staff officers at headquarters" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129497",
+                    "type": "Manifest",
+                    "label": { "en": [ " Council of war held at Lord Raglan's headquarters the morning of the successful attack on the Mamelon" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129589",
+                    "type": "Manifest",
+                    "label": { "en": [ " Temple dit de Vesta, d'Hercule Victor" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129509",
+                    "type": "Manifest",
+                    "label": { "en": [ " Latin manuscript from the collection of Sir Thomas Phillipps, baronet of Middle Hill in Worcestershire, England" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129577",
+                    "type": "Manifest",
+                    "label": { "en": [ " Portrait of two young girls from the Pennsylvania Training School for Feeble-Minded Children" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129581",
+                    "type": "Manifest",
+                    "label": { "en": [ " Portrait of two young girls from the Pennsylvania Training School for Feeble-Minded Children" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129529",
+                    "type": "Manifest",
+                    "label": { "en": [ " Unidentified man, three-quarter length portrait, sitting, facing slightly right with right hand inside coat" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129537",
+                    "type": "Manifest",
+                    "label": { "en": [ " Cart on a road leading to a stone building, possibly a church in southeast England" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129541",
+                    "type": "Manifest",
+                    "label": { "en": [ " Castle ruins, possibly in southeast England" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129597",
+                    "type": "Manifest",
+                    "label": { "en": [ " Castle ruins, possibly in southeast England" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129545",
+                    "type": "Manifest",
+                    "label": { "en": [ " Two leaves" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129569",
+                    "type": "Manifest",
+                    "label": { "en": [ " Woodcutters, Nicole and Pullen sawing and cleaving" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:434645722",
+                    "type": "Manifest",
+                    "label": { "en": [ " Psí-tsha Wa-kinģ-a (Jumping Thunder), a warrior of the Yankton Sioux" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:434645731",
+                    "type": "Manifest",
+                    "label": { "en": [ " Pa-dá-ni-A-pá-pi. 'Struck by the Ree' (Arickaree), principal chief of the Yankton Sioux"] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129437",
+                    "type": "Manifest",
+                    "label": { "en": [ " Mrs. James Gordon Bennett" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129440",
+                    "type": "Manifest",
+                    "label": { "en": [ " John Wein Forney Jr." ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129452",
+                    "type": "Manifest",
+                    "label": { "en": [ " Mr. Irwin" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129455",
+                    "type": "Manifest",
+                    "label": { "en": [ " Field family, (from left to right) Henry M., Cyrus W., Mathew D., David Dudley Jr., Jonathan E., and Stephen J." ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129458",
+                    "type": "Manifest",
+                    "label": { "en": [ " Sir Morton Peto and party" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129461",
+                    "type": "Manifest",
+                    "label": { "en": [ " Sir Morton Peto suite" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129464",
+                    "type": "Manifest",
+                    "label": { "en": [ " Thomas H. Benton" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129470",
+                    "type": "Manifest",
+                    "label": { "en": [ " Chanty Town, N.Y., (from left to right) Simeon Draper, [Isaac] Bell, M[oses H.] Grinnell, and J.B. Nicholson" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129473",
+                    "type": "Manifest",
+                    "label": { "en": [ " Lafayette S. Foster, president of senate in Lincoln's time and once acting vice president of U.S. Senate in war time" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:46077588",
+                    "type": "Manifest",
+                    "label": { "en": [ " Map of Petersburg, VA]" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:18786875",
+                    "type": "Manifest",
+                    "label": { "en": [ "" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:18774129",
+                    "type": "Manifest",
+                    "label": { "en": [ " Articles of China" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:20307997",
+                    "type": "Manifest",
+                    "label": { "en": [ " Articles of China" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:8360309",
+                    "type": "Manifest",
+                    "label": { "en": [ " Boston Society for Medical Improvement members" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129419",
+                    "type": "Manifest",
+                    "label": { "en": [ " Interior view of Brattle Street Church, Boston, showing organ and pews" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129603",
+                    "type": "Manifest",
+                    "label": { "en": [ " E.R. Showalter, 1862" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129606",
+                    "type": "Manifest",
+                    "label": { "en": [ " Elizabeth Agassiz, half-length portrait, facing slightly left" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129477",
+                    "type": "Manifest",
+                    "label": { "en": [ " Unidentified woman, three-quarters length portrait, sitting with right elbow resting on table" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129585",
+                    "type": "Manifest",
+                    "label": { "en": [ " Unidentified man sitting at a table reading a book" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129485",
+                    "type": "Manifest",
+                    "label": { "en": [ " Young man, three-quarters length portrait, facing front" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129505",
+                    "type": "Manifest",
+                    "label": { "en": [ " Temple dit de Vesta, d'Hercule Victor" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129513",
+                    "type": "Manifest",
+                    "label": { "en": [ " Still life with ancient Babylonian artifacts on books" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129517",
+                    "type": "Manifest",
+                    "label": { "en": [ " Portrait of two young girls from the Pennsylvania Training School for Feeble-Minded Children" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129521",
+                    "type": "Manifest",
+                    "label": { "en": [ " Bristol" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129525",
+                    "type": "Manifest",
+                    "label": { "en": [ " Conservatory, Penllergare" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129533",
+                    "type": "Manifest",
+                    "label": { "en": [ " Vue du pont de la Réforme ou pont Louis-Philippe" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129593",
+                    "type": "Manifest",
+                    "label": { "en": [ " Cart on a road leading to a stone building, possibly a church in southeast England" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129549",
+                    "type": "Manifest",
+                    "label": { "en": [ " Stable court, Lacock Abbey" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129553",
+                    "type": "Manifest",
+                    "label": { "en": [ " York Minster seen from Lop Lane (Little Blake Street)" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129557",
+                    "type": "Manifest",
+                    "label": { "en": [ " Tower at Lacock Abbey" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129561",
+                    "type": "Manifest",
+                    "label": { "en": [ " Top of Sharington's Tower, Lacock Abbey" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129565",
+                    "type": "Manifest",
+                    "label": { "en": [ " Possibly lace cut work" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129501",
+                    "type": "Manifest",
+                    "label": { "en": [ " Botanical specimen of a fern" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:434645713",
+                    "type": "Manifest",
+                    "label": { "en": [ " Ne-sha-du-si-di-te-zi-ku (the chief whom they look upon)" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:434645716",
+                    "type": "Manifest",
+                    "label": { "en": [ " Chief of the Republican Pawnee" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:434645719",
+                    "type": "Manifest",
+                    "label": { "en": [ " Psí-tsha Wa-kinģ-a (Jumping Thunder), a warrior of the Yankton Sioux" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:434645725",
+                    "type": "Manifest",
+                    "label": { "en": [ " Jumping Thunder, Sioux" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:434645728",
+                    "type": "Manifest",
+                    "label": { "en": [ " Tá-ka-ko (Grey Fox), a chief of the Sacs and Foxes" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129428",
+                    "type": "Manifest",
+                    "label": { "en": [ " Gen. Louis [sic] Wallace" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129431",
+                    "type": "Manifest",
+                    "label": { "en": [ " J. K. Polk" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129434",
+                    "type": "Manifest",
+                    "label": { "en": [ " Misses Costar" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129443",
+                    "type": "Manifest",
+                    "label": { "en": [ "henry Clay and wife" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129573",
+                    "type": "Manifest",
+                    "label": { "en": [ " Council of war held at Lord Raglan's headquarters the morning of the successful attack on the Mamelon" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129446",
+                    "type": "Manifest",
+                    "label": { "en": [ " John A. Dix" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129449",
+                    "type": "Manifest",
+                    "label": { "en": [ " Mr. Irwin" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129467",
+                    "type": "Manifest",
+                    "label": { "en": [ " Mrs. Daniel Edgar Sickles" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129600",
+                    "type": "Manifest",
+                    "label": { "en": [ " French actress Pauline Cico" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:46077587",
+                    "type": "Manifest",
+                    "label": { "en": [ " Map of Petersburg, VA]" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:18786861",
+                    "type": "Manifest",
+                    "label": { "en": [ "" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:18790119",
+                    "type": "Manifest",
+                    "label": { "en": [ "" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:18790118",
+                    "type": "Manifest",
+                    "label": { "en": [ "" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:17288912",
+                    "type": "Manifest",
+                    "label": { "en": [ " Patrick Byrne, the Blind Irish Harper" ] }
+                  },
+          {
+                    "id": "https://iiif.lib.harvard.edu/manifests/ids:10454292",
+                    "type": "Manifest",
+                    "label": { "en": [ " Turkey. Constantinople [Nusretiye Mosque]" ] }
+                  }
       ]
     }
