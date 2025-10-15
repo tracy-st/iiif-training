@@ -1,368 +1,732 @@
- {
-      "@context": "http://iiif.io/api/presentation/3/context.json",
-      "id": "https://example.org/collections/my-collection",
-      "type": "Collection",
-      "label": { "en": [ "My Custom IIIF Collection" ] },
-      "items": [
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129422",
-                    "type": "Manifest",
-                    "label": { "en": [ " F.E.A. [Francis Ellingwood Abbot] on leaving college, 1859" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129609",
-                    "type": "Manifest",
-                    "label": { "en": [ " James Postell, head-and-shoulders portrait, facing front" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:15315197",
-                    "type": "Manifest",
-                    "label": { "en": [ " Gore Hall" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129481",
-                    "type": "Manifest",
-                    "label": { "en": [ " Unidentified man sitting at a table reading a book" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129489",
-                    "type": "Manifest",
-                    "label": { "en": [ " Unidentified Tudor-style building with timber frame" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129493",
-                    "type": "Manifest",
-                    "label": { "en": [ " British and French staff officers at headquarters" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129497",
-                    "type": "Manifest",
-                    "label": { "en": [ " Council of war held at Lord Raglan's headquarters the morning of the successful attack on the Mamelon" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129589",
-                    "type": "Manifest",
-                    "label": { "en": [ " Temple dit de Vesta, d'Hercule Victor" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129509",
-                    "type": "Manifest",
-                    "label": { "en": [ " Latin manuscript from the collection of Sir Thomas Phillipps, baronet of Middle Hill in Worcestershire, England" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129577",
-                    "type": "Manifest",
-                    "label": { "en": [ " Portrait of two young girls from the Pennsylvania Training School for Feeble-Minded Children" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129581",
-                    "type": "Manifest",
-                    "label": { "en": [ " Portrait of two young girls from the Pennsylvania Training School for Feeble-Minded Children" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129529",
-                    "type": "Manifest",
-                    "label": { "en": [ " Unidentified man, three-quarter length portrait, sitting, facing slightly right with right hand inside coat" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129537",
-                    "type": "Manifest",
-                    "label": { "en": [ " Cart on a road leading to a stone building, possibly a church in southeast England" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129541",
-                    "type": "Manifest",
-                    "label": { "en": [ " Castle ruins, possibly in southeast England" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129597",
-                    "type": "Manifest",
-                    "label": { "en": [ " Castle ruins, possibly in southeast England" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129545",
-                    "type": "Manifest",
-                    "label": { "en": [ " Two leaves" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129569",
-                    "type": "Manifest",
-                    "label": { "en": [ " Woodcutters, Nicole and Pullen sawing and cleaving" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:434645722",
-                    "type": "Manifest",
-                    "label": { "en": [ " Psí-tsha Wa-kinģ-a (Jumping Thunder), a warrior of the Yankton Sioux" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:434645731",
-                    "type": "Manifest",
-                    "label": { "en": [ " Pa-dá-ni-A-pá-pi. 'Struck by the Ree' (Arickaree), principal chief of the Yankton Sioux"] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129437",
-                    "type": "Manifest",
-                    "label": { "en": [ " Mrs. James Gordon Bennett" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129440",
-                    "type": "Manifest",
-                    "label": { "en": [ " John Wein Forney Jr." ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129452",
-                    "type": "Manifest",
-                    "label": { "en": [ " Mr. Irwin" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129455",
-                    "type": "Manifest",
-                    "label": { "en": [ " Field family, (from left to right) Henry M., Cyrus W., Mathew D., David Dudley Jr., Jonathan E., and Stephen J." ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129458",
-                    "type": "Manifest",
-                    "label": { "en": [ " Sir Morton Peto and party" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129461",
-                    "type": "Manifest",
-                    "label": { "en": [ " Sir Morton Peto suite" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129464",
-                    "type": "Manifest",
-                    "label": { "en": [ " Thomas H. Benton" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129470",
-                    "type": "Manifest",
-                    "label": { "en": [ " Chanty Town, N.Y., (from left to right) Simeon Draper, [Isaac] Bell, M[oses H.] Grinnell, and J.B. Nicholson" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129473",
-                    "type": "Manifest",
-                    "label": { "en": [ " Lafayette S. Foster, president of senate in Lincoln's time and once acting vice president of U.S. Senate in war time" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:46077588",
-                    "type": "Manifest",
-                    "label": { "en": [ " Map of Petersburg, VA]" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:18786875",
-                    "type": "Manifest",
-                    "label": { "en": [ "" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:18774129",
-                    "type": "Manifest",
-                    "label": { "en": [ " Articles of China" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:20307997",
-                    "type": "Manifest",
-                    "label": { "en": [ " Articles of China" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:8360309",
-                    "type": "Manifest",
-                    "label": { "en": [ " Boston Society for Medical Improvement members" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129419",
-                    "type": "Manifest",
-                    "label": { "en": [ " Interior view of Brattle Street Church, Boston, showing organ and pews" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129603",
-                    "type": "Manifest",
-                    "label": { "en": [ " E.R. Showalter, 1862" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129606",
-                    "type": "Manifest",
-                    "label": { "en": [ " Elizabeth Agassiz, half-length portrait, facing slightly left" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129477",
-                    "type": "Manifest",
-                    "label": { "en": [ " Unidentified woman, three-quarters length portrait, sitting with right elbow resting on table" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129585",
-                    "type": "Manifest",
-                    "label": { "en": [ " Unidentified man sitting at a table reading a book" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129485",
-                    "type": "Manifest",
-                    "label": { "en": [ " Young man, three-quarters length portrait, facing front" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129505",
-                    "type": "Manifest",
-                    "label": { "en": [ " Temple dit de Vesta, d'Hercule Victor" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129513",
-                    "type": "Manifest",
-                    "label": { "en": [ " Still life with ancient Babylonian artifacts on books" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129517",
-                    "type": "Manifest",
-                    "label": { "en": [ " Portrait of two young girls from the Pennsylvania Training School for Feeble-Minded Children" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129521",
-                    "type": "Manifest",
-                    "label": { "en": [ " Bristol" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129525",
-                    "type": "Manifest",
-                    "label": { "en": [ " Conservatory, Penllergare" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129533",
-                    "type": "Manifest",
-                    "label": { "en": [ " Vue du pont de la Réforme ou pont Louis-Philippe" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129593",
-                    "type": "Manifest",
-                    "label": { "en": [ " Cart on a road leading to a stone building, possibly a church in southeast England" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129549",
-                    "type": "Manifest",
-                    "label": { "en": [ " Stable court, Lacock Abbey" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129553",
-                    "type": "Manifest",
-                    "label": { "en": [ " York Minster seen from Lop Lane (Little Blake Street)" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129557",
-                    "type": "Manifest",
-                    "label": { "en": [ " Tower at Lacock Abbey" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129561",
-                    "type": "Manifest",
-                    "label": { "en": [ " Top of Sharington's Tower, Lacock Abbey" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129565",
-                    "type": "Manifest",
-                    "label": { "en": [ " Possibly lace cut work" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129501",
-                    "type": "Manifest",
-                    "label": { "en": [ " Botanical specimen of a fern" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:434645713",
-                    "type": "Manifest",
-                    "label": { "en": [ " Ne-sha-du-si-di-te-zi-ku (the chief whom they look upon)" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:434645716",
-                    "type": "Manifest",
-                    "label": { "en": [ " Chief of the Republican Pawnee" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:434645719",
-                    "type": "Manifest",
-                    "label": { "en": [ " Psí-tsha Wa-kinģ-a (Jumping Thunder), a warrior of the Yankton Sioux" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:434645725",
-                    "type": "Manifest",
-                    "label": { "en": [ " Jumping Thunder, Sioux" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:434645728",
-                    "type": "Manifest",
-                    "label": { "en": [ " Tá-ka-ko (Grey Fox), a chief of the Sacs and Foxes" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129428",
-                    "type": "Manifest",
-                    "label": { "en": [ " Gen. Louis [sic] Wallace" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129431",
-                    "type": "Manifest",
-                    "label": { "en": [ " J. K. Polk" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129434",
-                    "type": "Manifest",
-                    "label": { "en": [ " Misses Costar" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129443",
-                    "type": "Manifest",
-                    "label": { "en": [ "henry Clay and wife" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129573",
-                    "type": "Manifest",
-                    "label": { "en": [ " Council of war held at Lord Raglan's headquarters the morning of the successful attack on the Mamelon" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129446",
-                    "type": "Manifest",
-                    "label": { "en": [ " John A. Dix" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129449",
-                    "type": "Manifest",
-                    "label": { "en": [ " Mr. Irwin" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129467",
-                    "type": "Manifest",
-                    "label": { "en": [ " Mrs. Daniel Edgar Sickles" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:433129600",
-                    "type": "Manifest",
-                    "label": { "en": [ " French actress Pauline Cico" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:46077587",
-                    "type": "Manifest",
-                    "label": { "en": [ " Map of Petersburg, VA]" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:18786861",
-                    "type": "Manifest",
-                    "label": { "en": [ "" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:18790119",
-                    "type": "Manifest",
-                    "label": { "en": [ "" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:18790118",
-                    "type": "Manifest",
-                    "label": { "en": [ "" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:17288912",
-                    "type": "Manifest",
-                    "label": { "en": [ " Patrick Byrne, the Blind Irish Harper" ] }
-                  },
-          {
-                    "id": "https://iiif.lib.harvard.edu/manifests/ids:10454292",
-                    "type": "Manifest",
-                    "label": { "en": [ " Turkey. Constantinople [Nusretiye Mosque]" ] }
-                  }
-      ]
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/collections/my-collection",
+  "type": "Collection",
+  "label": {
+    "en": [
+      "My Custom IIIF Collection"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129422",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " F.E.A. [Francis Ellingwood Abbot] on leaving college, 1859"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129609",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " James Postell, head-and-shoulders portrait, facing front"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:15315197",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Gore Hall"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129481",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Unidentified man sitting at a table reading a book"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129489",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Unidentified Tudor-style building with timber frame"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129493",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " British and French staff officers at headquarters"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129497",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Council of war held at Lord Raglan's headquarters the morning of the successful attack on the Mamelon"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129589",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Temple dit de Vesta, d'Hercule Victor"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129509",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Latin manuscript from the collection of Sir Thomas Phillipps, baronet of Middle Hill in Worcestershire, England"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129577",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Portrait of two young girls from the Pennsylvania Training School for Feeble-Minded Children"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129581",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Portrait of two young girls from the Pennsylvania Training School for Feeble-Minded Children"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129529",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Unidentified man, three-quarter length portrait, sitting, facing slightly right with right hand inside coat"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129537",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Cart on a road leading to a stone building, possibly a church in southeast England"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129541",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Castle ruins, possibly in southeast England"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129597",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Castle ruins, possibly in southeast England"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129545",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Two leaves"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129569",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Woodcutters, Nicole and Pullen sawing and cleaving"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:434645722",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Psí-tsha Wa-kinģ-a (Jumping Thunder), a warrior of the Yankton Sioux"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:434645731",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Pa-dá-ni-A-pá-pi. 'Struck by the Ree' (Arickaree), principal chief of the Yankton Sioux"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129437",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Mrs. James Gordon Bennett"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129440",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " John Wein Forney Jr."
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129452",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Mr. Irwin"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129455",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Field family, (from left to right) Henry M., Cyrus W., Mathew D., David Dudley Jr., Jonathan E., and Stephen J."
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129458",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Sir Morton Peto and party"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129461",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Sir Morton Peto suite"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129464",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Thomas H. Benton"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129470",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Chanty Town, N.Y., (from left to right) Simeon Draper, [Isaac] Bell, M[oses H.] Grinnell, and J.B. Nicholson"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129473",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Lafayette S. Foster, president of senate in Lincoln's time and once acting vice president of U.S. Senate in war time"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:46077588",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Map of Petersburg, VA]"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:18786875",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          ""
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:18774129",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Articles of China"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:20307997",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Articles of China"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:8360309",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Boston Society for Medical Improvement members"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129419",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Interior view of Brattle Street Church, Boston, showing organ and pews"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129603",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " E.R. Showalter, 1862"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129606",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Elizabeth Agassiz, half-length portrait, facing slightly left"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129477",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Unidentified woman, three-quarters length portrait, sitting with right elbow resting on table"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129585",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Unidentified man sitting at a table reading a book"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129485",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Young man, three-quarters length portrait, facing front"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129505",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Temple dit de Vesta, d'Hercule Victor"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129513",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Still life with ancient Babylonian artifacts on books"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129517",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Portrait of two young girls from the Pennsylvania Training School for Feeble-Minded Children"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129521",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Bristol"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129525",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Conservatory, Penllergare"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129533",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Vue du pont de la Réforme ou pont Louis-Philippe"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129593",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Cart on a road leading to a stone building, possibly a church in southeast England"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129549",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Stable court, Lacock Abbey"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129553",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " York Minster seen from Lop Lane (Little Blake Street)"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129557",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Tower at Lacock Abbey"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129561",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Top of Sharington's Tower, Lacock Abbey"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129565",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Possibly lace cut work"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129501",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Botanical specimen of a fern"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:434645713",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Ne-sha-du-si-di-te-zi-ku (the chief whom they look upon)"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:434645716",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Chief of the Republican Pawnee"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:434645719",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Psí-tsha Wa-kinģ-a (Jumping Thunder), a warrior of the Yankton Sioux"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:434645725",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Jumping Thunder, Sioux"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:434645728",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Tá-ka-ko (Grey Fox), a chief of the Sacs and Foxes"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129428",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Gen. Louis [sic] Wallace"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129431",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " J. K. Polk"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129434",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Misses Costar"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129443",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          "henry Clay and wife"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129573",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Council of war held at Lord Raglan's headquarters the morning of the successful attack on the Mamelon"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129446",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " John A. Dix"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129449",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Mr. Irwin"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129467",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Mrs. Daniel Edgar Sickles"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:433129600",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " French actress Pauline Cico"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:46077587",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Map of Petersburg, VA]"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:18786861",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          ""
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:18790119",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          ""
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:18790118",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          ""
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:17288912",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Patrick Byrne, the Blind Irish Harper"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/ids:10454292",
+      "type": "Manifest",
+      "process": "salt print",
+      "label": {
+        "en": [
+          " Turkey. Constantinople [Nusretiye Mosque]"
+        ]
+      }
     }
+  ]
+}
